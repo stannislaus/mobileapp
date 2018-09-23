@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">RiderApp</string>
+
+    <string name="headertext">S C O O T</string>
+    <string name="belowheadertext">RIDER</string>
+    <string name="bottomText">FORGOT PASSWORD?</string>
+
+
+    <string name="signIn">SIGN IN</string>
+    <string name="Register">REGISTER</string>
+
+    <string name="EmailText">Email</string>
+    <string name="Passwordtext">Password</string>
+    <string name="Namefield">Name</string>
+    <string name="Phonefield">Phone</string>
+    <string name="title_activity_welcome">Map</string>
+
+    <string name="Userbutton">Find User</string>
+
+    <string name="PickupLocationHint">Enter PickUp Location</string>
+    <string name="ButtonGo">GO</string>
+    <string name="ButtonPickupRequest">Pickup Request</string>
+
+    <string name="Google_direction_Api">AIzaSyC89Cs0VxIhXa6RW3YNLGf4Jb_mowrnSpQ</string>
+    <string name="title_activity_home">Home</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+
+    <string name="pickuptxt">Pickup here</string>
+    <string name="optionaltxt">Optional</string>
+</resources>
+

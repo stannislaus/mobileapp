@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2E3021</color>
+    <color name="colorPrimaryDark">#F5B626</color>
+    <color name="colorAccent">#F5B626</color>
+
+    <color name="bottomText">#6b6b76</color>
+
+    <color name="RiplleEffectColor">#f816a463</color>
+
+    <color name="btnSignIn">#F5B626</color>
+    <color name="btnRegister">#483838</color>
+
+
+    <color name="BaseReleaseColor">#212121</color>
+    <color name="BasePressColor">#FAFAFA</color>
+    <color name="BallReleaseColor">#9F9F9F</color>
+
+    <color name="transparent">#00000000</color>
+    <color name="gradStart">#F5B626</color>
+    <color name="gradStop">#DEBD05</color>
+
+
+    <color name="dividerColor">#1F000000</color>
+</resources>
